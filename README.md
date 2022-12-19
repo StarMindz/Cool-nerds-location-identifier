@@ -20,6 +20,8 @@ The dataset used for training this model is the IDRISI dataset. It contains 19 d
 - You can test and run the trained model by running the PREDICTIONS.ipynb file
 
 
+## Access the model directly from [here](https://drive.google.com/drive/folders/1sv2SOwtq9sc4pPmYkmFz2XcSrr9tCli7)
+
 ## Team mates/ Authors 
 👤 **Stanley**
 
